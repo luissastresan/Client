@@ -72,7 +72,8 @@ For the Frontend part, I created an application in React, using the NextJS Frame
 
 For package management, I used Yarn.
 
-(https://github.com/luissastresan/Client/blob/main/images/homePage.png)
+!(https://github.com/luissastresan/Client/blob/main/images/homePage.png)
+
 
 (https://github.com/luissastresan/Client/blob/main/images/loginPage.png)
 
