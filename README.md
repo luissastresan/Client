@@ -78,13 +78,13 @@ For package management, I used Yarn.
 
 ![image-20210308125721975](https://github.com/luissastresan/FlySense/blob/main/images/lightmainPage.png)
 
-![image-20210308125721975](https://github.com/luissastresan/FlySense/blob/main/images/darkmainPage.png)
+![image-20210308125721975](https://github.com/luissastresan/Client/blob/main/images/darkmainPage.png)
 
 ![image-20210308125721975](https://github.com/luissastresan/FlySense/blob/main/images/lightmoviecatalogPage.png)
 
 ![image-20210308125721975](https://github.com/luissastresan/FlySense/blob/main/images/darkmoviecatalogPage.png)
 
-![image-20210308125721975](https://github.com/luissastresan/FlySense/blob/main/images/infoMoviePage.png)
+(https://github.com/luissastresan/FlySense/blob/main/images/infoMoviePage.png)
 
 ### Built With
 
