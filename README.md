@@ -72,20 +72,19 @@ For the Frontend part, I created an application in React, using the NextJS Frame
 
 For package management, I used Yarn.
 
-!(https://github.com/luissastresan/Client/blob/main/images/homePage.png)
+![image-20210308125721975](https://github.com/luissastresan/Client/blob/main/images/homePage.png)
 
+![image-20210308125721975](https://github.com/luissastresan/Client/blob/main/images/loginPage.png)
 
-(https://github.com/luissastresan/Client/blob/main/images/loginPage.png)
+![image-20210308125721975](https://github.com/luissastresan/Client/blob/main/images/lightmainPage.png)
 
-(https://github.com/luissastresan/Client/blob/main/images/lightmainPage.png)
+![image-20210308125721975](https://github.com/luissastresan/Client/blob/main/images/darkmainPage.png)
 
-(https://github.com/luissastresan/Client/blob/main/images/darkmainPage.png)
+![image-20210308125721975](https://github.com/luissastresan/Client/blob/main/images/lightmoviecatalogPage.png)
 
-(https://github.com/luissastresan/Client/blob/main/images/lightmoviecatalogPage.png)
+![image-20210308125721975](https://github.com/luissastresan/Client/blob/main/images/darkmoviecatalogPage.png)
 
-(https://github.com/luissastresan/Client/blob/main/images/darkmoviecatalogPage.png)
-
-(https://github.com/luissastresan/Client/blob/main/images/infoMoviePage.png)
+![image-20210308125721975](https://github.com/luissastresan/Client/blob/main/images/infoMoviePage.png)
 
 ### Built With
 
