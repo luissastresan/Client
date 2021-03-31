@@ -24,9 +24,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
   <h3 align="center">Fly Sense</h3>
 
@@ -124,9 +121,11 @@ Install the Yarn global binary to its latest version:
 
 ### Installation
 
-1. Clone the repo
+1. I have two repos, one for the server and another one for the client. Clone the repos
    ```sh
-   git clone https://github.com/luissastresan/FlySense.git
+   git clone https://github.com/luissastresan/Client.git
+   git clone https://github.com/luissastresan/Server.git
+   
    ```
 2. There are two folders, backend and client. First open backend folder and run:
    ```sh
