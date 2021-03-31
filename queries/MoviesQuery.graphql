@@ -1,0 +1,10 @@
+query {
+  movies {
+    _id
+    title
+    image
+    ratings {
+      rating
+    }
+  }
+}

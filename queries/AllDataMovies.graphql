@@ -1,0 +1,12 @@
+query {
+  movies {
+    _id
+    title
+    productionYear
+    director
+    image
+    comments {
+      comment
+    }
+  }
+}
