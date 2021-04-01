@@ -7,5 +7,3 @@ export function switchThemeDark() {
 export function switchThemeLight() {
         document.documentElement.dataset.theme = "light";
     }
-
-export const router = useRouter()

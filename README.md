@@ -138,6 +138,8 @@ Install the Yarn global binary to its latest version:
    yarn run dev
    ```
 
+   For Login, userName is admin and password 1234
+
 <!-- CONTRIBUTING -->
 
 ## Contributing

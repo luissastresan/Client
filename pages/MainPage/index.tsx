@@ -2,9 +2,11 @@ import NavBar from '../../components/NavBar/NavBar'
 import Card from '../../components/Card/Card'
 import { switchThemeDark } from '../../helpers/helpers'
 import { switchThemeLight } from '../../helpers/helpers'
-import { router } from '../../helpers/helpers'
+import { useRouter } from 'next/router'
 
 export default function MainPage() {
+
+    const router = useRouter()
 
     function redirectToCatalogMovie() {
         router.push('/CatalogMoviePage')

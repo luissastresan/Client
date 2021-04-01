@@ -7,16 +7,16 @@ import Comments from "../../components/Comments/Comments";
 import StarRating from "../../components/StarRating/StarRating";
 import { switchThemeDark } from '../../helpers/helpers'
 import { switchThemeLight } from '../../helpers/helpers'
-import { router } from '../../helpers/helpers'
+import { useRouter } from 'next/router'
 
 
 export default function singleMoviePage() {
     const [rating, setRating] = useState(3);
     const { id } = router.query
+    const router = useRouter()
 
-    const { data, loading, error } = useQuery(QUERY_ALLDATAMOVIES, {
-        pollInterval: 500
-    });
+
+    const { data, loading, error } = useQuery(QUERY_ALLDATAMOVIES);
 
 
     if (loading) {
