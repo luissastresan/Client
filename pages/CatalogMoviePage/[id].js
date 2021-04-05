@@ -12,8 +12,9 @@ import { useRouter } from 'next/router'
 
 export default function singleMoviePage() {
     const [rating, setRating] = useState(3);
-    const { id } = router.query
     const router = useRouter()
+    const { id } = router.query
+
 
 
     const { data, loading, error } = useQuery(QUERY_ALLDATAMOVIES);
